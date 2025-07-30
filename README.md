@@ -1,4 +1,4 @@
-# Adobe India Hackathon 2025: Connecting the Dots
+<!-- # Adobe India Hackathon 2025: Connecting the Dots -->
 ## Round 1A: PDF Document Structure Extraction
 
 ### Overview
