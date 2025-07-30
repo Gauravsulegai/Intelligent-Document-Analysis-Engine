@@ -127,7 +127,7 @@ This project was a collaborative effort by all three team members. We divided ou
 * Developed the semantic search and relevance ranking system (Round 1B).
 * Set up the Docker environment and managed the final build process.
 
-[Piyush Kumar] - Research & Quality Assurance*
+[Piyush Kumar] - Research & Quality Assurance
     
 * Conducted initial research on PDF parsing libraries and NLP models to help the team decide on the optimal tech stack.
 
